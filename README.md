@@ -8,50 +8,82 @@
 
 ---
 
-## 🌍 **About Me**  
-🎓 **AI & Data Science Student** @ ENIAD  
-📊 Passionate about **Data Analytics, Machine Learning & AI**  
-📌 Currently working on **Data-driven AI solutions**  
-💡 Learning **TensorFlow, PyTorch & Optimization Algorithms**  
-🔍 Exploring **Big Data & Cloud Technologies**  
-📧 Reach me at **ahmdhajy301@gmail.com**  
+## 🌍 About Me  
+🎓 Étudiant ingénieur en **Intelligence Artificielle** @ ENIAD  
+🧠 Passionné par le **Machine Learning**, le **Deep Learning** et la **Data Science**  
+📈 Objectif : Analyser des données complexes et contribuer à des décisions stratégiques éclairées  
+📧 Email académique : **ahmed.hajji.23@ump.ac.ma**  
+📬 Email personnel : **ahmdhajy301@gmail.com**  
+📱 +212 603251761  
 
 ---
 
-## 🛠️ **Tech Stack & Tools**  
- 
-### 📊 **Data Analytics & Machine Learning**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,matplotlib,seaborn,aws" />
+## 🛠️ Compétences
 
-  <!-- Icônes personnalisées -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" title="Seaborn"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+### 🎯 Data Science & Machine Learning
+- Machine Learning, Deep Learning, NLP, Computer Vision
+- Fine-tuning de modèles
+- Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, XGBoost, LightGBM
 
+### 📊 Analyse de Données & BI
+- Power BI, Excel, SQL, Talend, ETL
 
-### 🤖 **Artificial Intelligence & Deep Learning**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras" />
-</p>
+### 🧑‍💻 Programmation & Dev
+- Python, SQL, Java, C, C++, C#
+- Frontend : React, Next.js, Streamlit
 
+### 🧠 IA Avancée & Agents
+- Systèmes Multi-Agents (SMA)
+- CrewAI, LangChain, RAG (Retrieval-Augmented Generation), LangGraph
 
-
-### 🏗️ **Programming & Development**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,c,cpp,php,streamlit" />
-</p>
+### 💬 Soft Skills
+- Esprit analytique, Communication, Travail en équipe, Adaptabilité
 
 ---
 
-## 📊 **GitHub Stats & Activity**
+## 🎓 Formation
+
+- 🎓 **2023 – Présent** : Ingénierie de l'Intelligence Artificielle – ENIAD  
+- 🎓 **2021 – 2023** : DEUG en Sciences Physiques  
+- 🎓 **2020 – 2021** : Baccalauréat en Sciences Physiques
+
+---
+
+## 🧾 Certifications
+
+- ✅ Machine Learning with Python (IBM)  
+- ✅ Python 101 for Data Science (IBM)  
+- ✅ AI Foundations (Oracle)  
+- ✅ Introduction to Data Science (Simplilearn)  
+- ✅ Data Analysis with Python (IBM)  
+- ✅ Business Analytics with Excel (Simplilearn)  
+- ✅ BI Fundamentals (Simplilearn)  
+- ✅ SQL Basics (Simplilearn)  
+- ✅ Power BI for Beginners (Simplilearn)  
+- ✅ Se préparer au métier d'analyste de données (LinkedIn)
+
+---
+
+## 🚀 Projets Académiques
+
+- 📈 **Prédiction Météo** : XGBoost & LightGBM – 94 % de précision  
+- 🏠 **Prix des maisons** : Régression & Analyse exploratoire avec Scikit-learn  
+- 🤖 **Système Multi-Agents intelligent** : Recherche assistée avec LangChain  
+- 🧾 **Détection de fausses factures** : Classification automatique de documents  
+- 🧠 **Classification d’images** : CNN pour reconnaissance visuelle  
+- 🌿 **GreenH2Smart** : Plateforme de gestion intelligente de l’hydrogène vert  
+- 🧭 **SmartGuide** : Plateforme touristique intelligente alimentée par l’IA
+
+---
+
+## 🌐 Langues
+- 🇲🇦 Arabe : Langue maternelle  
+- 🇫🇷 Français : Courant  
+- 🇬🇧 Anglais : Intermédiaire
+
+---
+
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hajji-ahmed&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
@@ -62,16 +94,21 @@
 
 ---
 
-## 🔗 **Connect with Me**
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hajji-840956336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmdhajy301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Hajji-ahmed">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-🔥 **Thanks for visiting! Feel free to connect and collaborate.** 🚀  
+📄 **[Voir mon CV (PDF)](./CV.pdf)**
 
-
-
+🔥 *Thanks for visiting! Feel free to connect and collaborate.* 🚀
