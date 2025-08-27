@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hajji Ahmed</h1>
-<h3 align="center">🚀 Data Analyst | AI & Machine Learning Enthusiast | Tech Lover 🚀</h3>
+<h1 align="center">Hi, I'm Hajji Ahmed</h1>
+<h3 align="center">Data Analyst | AI & Machine Learning Enthusiast | Tech Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hajji-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,82 +8,82 @@
 
 ---
 
-## 🌍 About Me  
-🎓 Étudiant ingénieur en **Intelligence Artificielle** @ ENIAD  
-🧠 Passionné par le **Machine Learning**, le **Deep Learning** et la **Data Science**  
-📈 Objectif : Analyser des données complexes et contribuer à des décisions stratégiques éclairées  
-📧 Email académique : **ahmed.hajji.23@ump.ac.ma**  
-📬 Email personnel : **ahmdhajy301@gmail.com**  
-📱 +212 603251761  
+## About Me  
+Étudiant ingénieur en **Intelligence Artificielle** @ ENIAD  
+Passionné par le **Machine Learning**, le **Deep Learning** et la **Data Science**  
+Objectif : Analyser des données complexes et contribuer à des décisions stratégiques éclairées  
+Email académique : **ahmed.hajji.23@ump.ac.ma**  
+Email personnel : **ahmdhajy301@gmail.com**  
++212 603251761  
 
 ---
 
-## 🛠️ Compétences
+## Skills
 
-### 🎯 Data Science & Machine Learning
+### Data Science & Machine Learning
 - Machine Learning, Deep Learning, NLP, Computer Vision
 - Fine-tuning de modèles
 - Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, XGBoost, LightGBM
 
-### 📊 Analyse de Données & BI
+### Data Analysis & BI
 - Power BI, Excel, SQL, Talend, ETL
 
-### 🧑‍💻 Programmation & Dev
+### Programming & Dev
 - Python, SQL, Java, C, C++, C#
 - Frontend : React, Next.js, Streamlit
 
-### 🧠 IA Avancée & Agents
+### Advanced AI & Agents
 - Systèmes Multi-Agents (SMA)
 - CrewAI, LangChain, RAG (Retrieval-Augmented Generation), LangGraph
 
-### 💬 Soft Skills
+### Soft Skills
 - Esprit analytique, Communication, Travail en équipe, Adaptabilité
 
 ---
 
-## 🎓 Formation
+## Education
 
-- 🎓 **2023 – Présent** : Ingénierie de l'Intelligence Artificielle – ENIAD  
-- 🎓 **2021 – 2023** : DEUG en Sciences Physiques  
-- 🎓 **2020 – 2021** : Baccalauréat en Sciences Physiques
-
----
-
-## 🧾 Certifications
-
-- ✅ Machine Learning with Python (IBM)  
-- ✅ Python 101 for Data Science (IBM)  
-- ✅ AI Foundations (Oracle)  
-- ✅ Introduction to Data Science (Simplilearn)  
-- ✅ Data Analysis with Python (IBM)  
-- ✅ Business Analytics with Excel (Simplilearn)  
-- ✅ BI Fundamentals (Simplilearn)  
-- ✅ SQL Basics (Simplilearn)  
-- ✅ Power BI for Beginners (Simplilearn)  
-- ✅ Se préparer au métier d'analyste de données (LinkedIn)
+- 2023 – Présent : Ingénierie de l'Intelligence Artificielle – ENIAD  
+- 2021 – 2023 : DEUG en Sciences Physiques  
+- 2020 – 2021 : Baccalauréat en Sciences Physiques
 
 ---
 
-## 🚀 Projets Académiques
+## Certifications
 
-- 📈 **Prédiction Météo** : XGBoost & LightGBM – 94 % de précision  
-- 🏠 **Prix des maisons** : Régression & Analyse exploratoire avec Scikit-learn  
-- 🤖 **Système Multi-Agents intelligent** : Recherche assistée avec LangChain  
-- 🧾 **Détection de fausses factures** : Classification automatique de documents  
-- 🧠 **Classification d’images** : CNN pour reconnaissance visuelle  
-- 🌿 **GreenH2Smart** : Plateforme de gestion intelligente de l’hydrogène vert  
-- 🧭 **SmartGuide** : Plateforme touristique intelligente alimentée par l’IA
-
----
-
-## 🌐 Langues
-- 🇲🇦 Arabe : Langue maternelle  
-- 🇫🇷 Français : Courant  
-- 🇬🇧 Anglais : Intermédiaire
+- Machine Learning with Python (IBM)  
+- Python 101 for Data Science (IBM)  
+- AI Foundations (Oracle)  
+- Introduction to Data Science (Simplilearn)  
+- Data Analysis with Python (IBM)  
+- Business Analytics with Excel (Simplilearn)  
+- BI Fundamentals (Simplilearn)  
+- SQL Basics (Simplilearn)  
+- Power BI for Beginners (Simplilearn)  
+- Se préparer au métier d'analyste de données (LinkedIn)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## Academic Projects
+
+- Prédiction Météo : XGBoost & LightGBM – 94 % de précision  
+- Prix des maisons : Régression & Analyse exploratoire avec Scikit-learn  
+- Système Multi-Agents intelligent : Recherche assistée avec LangChain  
+- Détection de fausses factures : Classification automatique de documents  
+- Classification d’images : CNN pour reconnaissance visuelle  
+- GreenH2Smart : Plateforme de gestion intelligente de l’hydrogène vert  
+- SmartGuide : Plateforme touristique intelligente alimentée par l’IA
+
+---
+
+## Languages
+- Arabe : Langue maternelle  
+- Français : Courant  
+- Anglais : Intermédiaire
+
+---
+
+## GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hajji-ahmed&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-hajji-840956336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -109,6 +109,5 @@
 
 ---
 
-📄 **[Voir mon CV (PDF)](./CV.pdf)**
+Thanks for visiting! Feel free to connect and collaborate.
 
-🔥 *Thanks for visiting! Feel free to connect and collaborate.* 🚀
