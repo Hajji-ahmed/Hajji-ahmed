@@ -2,7 +2,7 @@
   
 # Salut, je suis Ahmed Hajji
 
-### Ingénieur IA | Data Scientist | Innovateur Tech
+### Ingénieur IA | Data Scientist | Innovateur Tech 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hajji-ahmed&label=Visiteurs&color=0e75b6&style=for-the-badge)](https://github.com/Hajji-ahmed)
 [![Followers](https://img.shields.io/github/followers/Hajji-ahmed?label=Followers&style=for-the-badge&color=blue)](https://github.com/Hajji-ahmed?tab=followers)
