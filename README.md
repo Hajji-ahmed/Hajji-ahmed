@@ -1,15 +1,14 @@
 <!--
 ═══════════════════════════════════════════════════════════════════
-  AHMED HAJJI · ARTIFICIAL INTELLIGENCE ENGINEER
-  Portfolio README · Designed with precision, crafted with passion
+  AHMED HAJJI · ARTIFICIAL INTELLIGENCE ENGINEER · 2026
 ═══════════════════════════════════════════════════════════════════
 -->
 
-<!-- ═════════════════════ HERO SECTION ═════════════════════ -->
+<!-- ═════════════════════ HERO ═════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=260&section=header&text=AHMED%20HAJJI&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=ARTIFICIAL%20INTELLIGENCE%20ENGINEER&descAlignY=56&descAlign=50&descSize=20&fontFamily=Arial" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=260&section=header&text=AHMED%20HAJJI&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=ARTIFICIAL%20INTELLIGENCE%20ENGINEER&descAlignY=56&descAlign=50&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Building+intelligent+systems+that+ship+to+production;LLMs+%E2%80%94+RAG+%E2%80%94+Multi-Agents+%E2%80%94+Computer+Vision;From+notebook+to+SaaS+%E2%80%94+end-to-end+AI+engineering;Turning+complex+data+into+real-world+impact" />
@@ -32,18 +31,17 @@
 
 <br/><br/>
 
-<!-- NAVIGATION -->
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 &nbsp;
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 &nbsp;
-<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 &nbsp;
-<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 &nbsp;
-<a href="#stats"><img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 &nbsp;
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&labelColor=58A6FF" /></a>
 
 </div>
 
@@ -51,11 +49,19 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<br/>
+<!-- ═════════════════════ DIVIDER ANIMÉ ═════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
 
 <!-- ═════════════════════ KPI DASHBOARD ═════════════════════ -->
 
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=A+glance+at+the+numbers..." />
+</a>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -84,15 +90,17 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
 
-<!-- ═════════════════════ ABOUT ═════════════════════ -->
+<!-- ═════════════════════ 01 — ABOUT ═════════════════════ -->
 
 <a id="about"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
+<div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=240&height=32&lines=01+%E2%80%94+%C3%80+propos" alt="01 — À propos" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=01%20%E2%80%94%20%C3%80%20PROPOS&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+</div>
 
 <table>
 <tr>
@@ -131,20 +139,26 @@ print(me.philosophy())
 </td>
 <td width="45%" valign="top">
 
-#### Profil
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=180&height=28&lines=%E2%96%B8+Profil" />
+</a>
 
 Ingénieur en Intelligence Artificielle, lauréat de l'**ENIAD Berkane**. Je conçois et déploie des solutions IA **de bout en bout** — de la modélisation à la mise en production.
 
 Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fine-tuning), la **Computer Vision** et la **Data Science appliquée**. J'allie rigueur algorithmique, sens du produit et capacité à livrer des systèmes robustes à fort impact.
 
-#### Focus actuel
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=240&height=28&lines=%E2%96%B8+Focus+actuel" />
+</a>
 
 `▸` Architectures multi-agents avancées <br/>
 `▸` Pipelines OCR + RAG en production <br/>
 `▸` LLMs fine-tunés en Darija marocain <br/>
-`▸` SaaS IA multi-tenant scalable <br/>
+`▸` SaaS IA multi-tenant scalable
 
-#### Identité
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=200&height=28&lines=%E2%96%B8+Identit%C3%A9" />
+</a>
 
 | | |
 |---|---|
@@ -157,31 +171,45 @@ Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fi
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
 
-<!-- ═════════════════════ STACK TECHNIQUE ═════════════════════ -->
-
-<a id="stack"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
-
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=320&height=32&lines=02+%E2%80%94+Stack+Technique" alt="02 — Stack Technique" />
+<!-- ═════════════════════ PHILOSOPHIE ═════════════════════ -->
 
 <div align="center">
 
-<h3>Intelligence Artificielle</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4500&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%C2%AB+Ship+production+systems%2C+not+demos.+%C2%BB;%C2%AB+Measure+impact%2C+not+lines+of+code.+%C2%BB;%C2%AB+Optimize+for+clarity%2C+then+performance.+%C2%BB" />
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
+
+<!-- ═════════════════════ 02 — STACK ═════════════════════ -->
+
+<a id="stack"></a>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=02%20%E2%80%94%20STACK%20TECHNIQUE&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&width=420&height=28&lines=Intelligence+Artificielle+%26+ML" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
-</p>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
 
 <table width="98%">
 <thead>
@@ -227,16 +255,22 @@ Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fi
 
 <br/>
 
-<h3>Data Science &amp; Big Data</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&width=380&height=28&lines=Data+Science+%26+Big+Data" />
+</a>
 
-<p>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,r&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black&labelColor=0D1117" />
-</p>
+
+<br/><br/>
 
 <sub>
 <b>Engineering</b> &mdash; ETL/ELT &middot; Feature Engineering &middot; Data Cleaning &middot; Time Series<br/>
@@ -246,18 +280,19 @@ Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fi
 
 <br/><br/>
 
-<h3>Backend &amp; Frontend</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&width=380&height=28&lines=Backend+%26+Frontend" />
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,nodejs,react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-</p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
 
 <sub>
 <b>Languages</b> &mdash; Python &middot; Java &middot; C/C++/C# &middot; SQL &middot; JavaScript / TypeScript<br/>
@@ -266,18 +301,18 @@ Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fi
 
 <br/><br/>
 
-<h3>DevOps, MLOps &amp; Cloud</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&width=420&height=28&lines=DevOps%2C+MLOps+%26+Cloud" />
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0D1117" />
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,azure,aws,gcp,linux,bash,git,github&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-</p>
+
+<br/><br/>
 
 <sub>
 <b>MLOps</b> &mdash; Docker &middot; Compose &middot; GitHub Actions &middot; Jenkins &middot; MLflow &middot; CI/CD<br/>
@@ -286,13 +321,23 @@ Mon savoir-faire couvre l'**IA générative** (LLM, RAG, agents multi-modaux, fi
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
+
+<!-- ═════════════════════ 03 — MÉTHODOLOGIE ═════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=03%20%E2%80%94%20M%C3%89THODOLOGIE&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
 <br/>
 
-<!-- ═════════════════════ MÉTHODOLOGIE ═════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=De+l'id%C3%A9e+m%C3%A9tier+%C3%A0+la+production+monitor%C3%A9e;Un+workflow+rigoureux+%E2%80%94+r%C3%A9plicable+%E2%80%94+scalable" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
+</div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=320&height=32&lines=03+%E2%80%94+M%C3%A9thodologie" alt="03 — Méthodologie" />
+<br/>
 
 ```mermaid
 flowchart LR
@@ -314,19 +359,25 @@ flowchart LR
     style E fill:#161B22,stroke:#FF7700,color:#fff
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
 
-<!-- ═════════════════════ PROJETS PHARES ═════════════════════ -->
+<!-- ═════════════════════ 04 — PROJETS ═════════════════════ -->
 
 <a id="projects"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
+<div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=320&height=32&lines=04+%E2%80%94+Projets+Phares" alt="04 — Projets Phares" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=04%20%E2%80%94%20PROJETS%20PHARES&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
 
-### Spotlight &mdash; Inkway Accounting SaaS
+<br/>
 
-> *Projet en cours &middot; Mars 2026 — Présent &middot; Production*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=FF7700&center=true&vCenter=true&width=820&lines=Spotlight+%E2%80%94+Inkway+Accounting+SaaS;Production+%E2%80%94+Mars+2026+%E2%80%94+En+cours" />
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -353,11 +404,9 @@ flowchart LR
 &nbsp;&nbsp;`▸`&nbsp; Fiabilité élevée sur l'extraction des données structurées
 
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="top" align="center">
 
 <br/>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-EN%20COURS-FF7700?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
@@ -371,15 +420,21 @@ flowchart LR
 <br/>
 <img src="https://img.shields.io/badge/INFRA-Docker-2496ED?style=for-the-badge&labelColor=0D1117" />
 
-</div>
-
 </td>
 </tr>
 </table>
 
 <br/>
 
-### Autres Projets
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&width=280&height=28&lines=%E2%96%B8+Autres+Projets" />
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -462,15 +517,25 @@ Agents autonomes collaboratifs effectuant **scraping, synthèse et génération 
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
 
-<!-- ═════════════════════ EXPÉRIENCE ═════════════════════ -->
+<!-- ═════════════════════ 05 — EXPÉRIENCE ═════════════════════ -->
 
 <a id="experience"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
+<div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=400&height=32&lines=05+%E2%80%94+Exp%C3%A9rience+Pro" alt="05 — Expérience Professionnelle" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=05%20%E2%80%94%20EXP%C3%89RIENCE%20PRO&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=De+freelance+en+2024+%C3%A0+ing%C3%A9nieur+IA+aujourd'hui;6+exp%C3%A9riences+%E2%80%94+5+entreprises+%E2%80%94+1+passion" />
+</a>
+
+</div>
+
+<br/>
 
 ```mermaid
 timeline
@@ -551,17 +616,23 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
 
-<!-- ═════════════════════ STATISTIQUES GITHUB ═════════════════════ -->
+<!-- ═════════════════════ 06 — STATISTIQUES ═════════════════════ -->
 
 <a id="stats"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
-
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=380&height=32&lines=06+%E2%80%94+Statistiques+GitHub" alt="06 — Statistiques GitHub" />
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=06%20%E2%80%94%20STATISTIQUES%20GITHUB&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Code+is+the+best+story+%E2%80%94+let+the+graphs+tell+it" />
+</a>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -586,19 +657,35 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
+
+<!-- ═════════════════════ 07 — FORMATION ═════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=07%20%E2%80%94%20FORMATION%20%26%20CERTIFICATIONS&fontSize=26&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
 <br/>
 
-<!-- ═════════════════════ FORMATION ═════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Apprendre+chaque+jour+%E2%80%94+livrer+chaque+semaine" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
+</div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=480&height=32&lines=07+%E2%80%94+Formation+%26+Certifications" alt="07 — Formation & Certifications" />
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Parcours Académique
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=320&height=28&lines=%E2%96%B8+Parcours+Acad%C3%A9mique" />
+</a>
+</div>
+
+<br/>
 
 <table>
 <thead>
@@ -614,7 +701,13 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 </td>
 <td width="50%" valign="top">
 
-#### Certifications
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=240&height=28&lines=%E2%96%B8+Certifications" />
+</a>
+</div>
+
+<br/>
 
 <table>
 <thead>
@@ -634,15 +727,21 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
 
-<!-- ═════════════════════ SOFT SKILLS ═════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
-
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=300&height=32&lines=08+%E2%80%94+Soft+Skills" alt="08 — Soft Skills" />
+<!-- ═════════════════════ 08 — SOFT SKILLS ═════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=08%20%E2%80%94%20SOFT%20SKILLS&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Au-del%C3%A0+du+code+%E2%80%94+le+savoir-%C3%AAtre" />
+</a>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -664,23 +763,45 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=footer&reversal=true" width="100%" />
 
-<!-- ═════════════════════ CONTACT ═════════════════════ -->
+<!-- ═════════════════════ CURRENTLY LEARNING ═════════════════════ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=FF7700&center=true&vCenter=true&width=820&height=60&lines=%E2%96%B8+Currently+exploring%3A+Agentic+RAG+with+graph+memory;%E2%96%B8+Currently+building%3A+Inkway+%E2%80%94+Moroccan+accounting+SaaS;%E2%96%B8+Currently+reading%3A+%C2%AB+Designing+Machine+Learning+Systems+%C2%BB" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=80&section=header" width="100%" />
+
+<!-- ═════════════════════ 09 — CONTACT ═════════════════════ -->
 
 <a id="contact"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
-
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=999999&color=58A6FF&width=320&height=32&lines=09+%E2%80%94+Connectons-nous" alt="09 — Connectons-nous" />
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,2,5,30&height=60&section=header&text=09%20%E2%80%94%20CONNECTONS-NOUS&fontSize=28&fontColor=ffffff&fontAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=820&height=55&lines=Disponible+pour+stages+PFE+%E2%80%94+CDI+%E2%80%94+freelance;Ouvert+aux+collaborations+et+projets+innovants;R%C3%A9ponse+sous+24h+en+semaine" />
+</a>
+
+<br/><br/>
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-#### Disponible pour
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=280&height=28&lines=%E2%96%B8+Disponible+pour" />
+</a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STAGES%20PFE-2EA043?style=for-the-badge&labelColor=0D1117" /><br/><br/>
 <img src="https://img.shields.io/badge/CDI%20%2F%20CDD-58A6FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
@@ -690,24 +811,23 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 </td>
 <td align="center" width="50%">
 
-#### Domaines d'intérêt
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=58A6FF&width=320&height=28&lines=%E2%96%B8+Domaines+d'int%C3%A9r%C3%AAt" />
+</a>
+
+<br/><br/>
 
 <sub>
-<b>Generative AI</b> &middot; <b>RAG Systems</b><br/>
-<b>Multi-Agent Architectures</b><br/>
-<b>Computer Vision</b> &middot; <b>OCR</b><br/>
-<b>MLOps</b> &middot; <b>SaaS IA Multi-Tenant</b><br/>
+<b>Generative AI</b> &middot; <b>RAG Systems</b><br/><br/>
+<b>Multi-Agent Architectures</b><br/><br/>
+<b>Computer Vision</b> &middot; <b>OCR</b><br/><br/>
+<b>MLOps</b> &middot; <b>SaaS IA Multi-Tenant</b><br/><br/>
 <b>NLP &amp; Darija Language Tech</b>
 </sub>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-> *Ouvert aux opportunités, collaborations et projets innovants en Intelligence Artificielle.*
-> *Réponse sous 24h en semaine.*
 
 <br/>
 
@@ -734,14 +854,10 @@ Développement de solutions IA pour clients : automatisation, API intelligentes,
 
 <!-- ═════════════════════ FOOTER ═════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,5,30&height=4&width=100%" width="100%" />
-
 <div align="center">
 
-<br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Transformer+les+donn%C3%A9es+en+intelligence%2C;l'intelligence+en+innovation.;Ahmed+Hajji+%E2%80%94+AI+Engineer+%E2%80%94+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&height=60&lines=Transformer+les+donn%C3%A9es+en+intelligence%2C;l'intelligence+en+innovation.;Ahmed+Hajji+%E2%80%94+AI+Engineer+%E2%80%94+2026" />
 </a>
 
 <br/>
@@ -753,4 +869,4 @@ Dernière mise à jour automatique &middot; <i>via GitHub Actions</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=160&section=footer" width="100%" />
